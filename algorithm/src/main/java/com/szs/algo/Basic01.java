@@ -18,7 +18,7 @@ import java.util.Arrays;
 public class Basic01 {
     public static void main(String[] args) {
         //加点注释看看效果
-        experiment(1001, 1000);
+        experiment(10011, 1000);
     }
 
     /**
