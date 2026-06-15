@@ -13,7 +13,7 @@ import java.util.Arrays;
  * 每一轮要做如下事情：
  * 每个人拿出1元给别人，给谁完全随机
  * 如何这个人这一轮没钱了，可以不给，可以接收
- * 发生很多轮之后，观察财富分布情况
+ * 发生很多轮之后，观察财富分布情况 w\ 加点注释看看效果
  */
 public class Basic01 {
     public static void main(String[] args) {
